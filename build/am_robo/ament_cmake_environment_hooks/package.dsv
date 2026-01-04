@@ -1,0 +1,4 @@
+source;share/am_robo/local_setup.bash
+source;share/am_robo/local_setup.dsv
+source;share/am_robo/local_setup.sh
+source;share/am_robo/local_setup.zsh
