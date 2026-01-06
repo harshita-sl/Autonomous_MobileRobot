@@ -1,5 +1,7 @@
+/home/harshita/AMR/install/am_robo/share/am_robo/config/drive.rviz
 /home/harshita/AMR/install/am_robo/share/am_robo/description/gazebo_control.xacro
 /home/harshita/AMR/install/am_robo/share/am_robo/description/inertial_macros.xacro
+/home/harshita/AMR/install/am_robo/share/am_robo/description/lidar.xacro
 /home/harshita/AMR/install/am_robo/share/am_robo/description/robot.urdf.xacro
 /home/harshita/AMR/install/am_robo/share/am_robo/description/robot_core.xacro
 /home/harshita/AMR/install/am_robo/share/am_robo/description/ros2_control.xacro
